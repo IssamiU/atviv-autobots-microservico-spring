@@ -2,7 +2,7 @@
 
 ## Tecnologias
 
-- **Java 11+**
+- **Java 17**
 - **Spring Boot 2.7.x**
 - **Spring Data JPA**
 - **Spring HATEOAS**
