@@ -17,7 +17,7 @@
 
 Antes de executar o projeto, certifique-se de ter instalado:
 
-- [Java JDK 11+](https://www.oracle.com/java/technologies/downloads/)
+- [Java JDK 17+](https://www.oracle.com/java/technologies/downloads/)
 - [MySQL 8.0+](https://dev.mysql.com/downloads/mysql/)
 - [Maven](https://maven.apache.org/download.cgi) (ou use o wrapper incluído)
 
